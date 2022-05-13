@@ -1,0 +1,2 @@
+# A38OperadoresDeAtribuicaoCumulativa
+Projeto OperadoresDeAtribuicaoCumulativa
